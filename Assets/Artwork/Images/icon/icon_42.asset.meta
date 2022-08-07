@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 5bdf6921248844911b9cc550910bde01
+timeCreated: 1543892725
+licenseType: Pro
+NativeFormatImporter:
+  mainObjectFileID: 11400000
+  userData: "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"64\" height=\"64\"
+    viewBox=\"0 0 64 64\">\n  <title>icon_42</title>\n  <g id=\"d0374f11-ff35-42bd-8a54-a86f074d23eb\"
+    data-name=\"\u56FE\u5C42 2\">\n    <g id=\"98484111-677d-46b9-938f-a2847150330d\"
+    data-name=\"\u56FE\u5C42 1\">\n      <path d=\"M62.63,22.39l-6-8a6,6,0,0,0-.81-.85V4a4,4,0,0,0-4-4H11.87a4,4,0,0,0-4,4v9.56a5.94,5.94,0,0,0-.79.84l-5.9,8A6.09,6.09,0,0,0,0,26v2a6.09,6.09,0,0,0,6.16,6h0V60a4,4,0,0,0,4,4H53.84a4,4,0,0,0,4-4V34A6.09,6.09,0,0,0,64,28V26.08l-1.37-3.6ZM52,4.11V12H12V4.11Zm-31.71,26h-8.4l8-14h4.39Zm5.95-14H30.8v14H22.25Zm6.6,0H37.4l4,14H32.86Zm6.65,0h4.39l8,14h-8.4Zm-35.74,12v-2a2,2,0,0,1,.4-1.2l6-8a2,2,0,0,1,1.6-.8H17.5l-8,14H5.77a2,2,0,0,1-2-2ZM40,59.89H25V40H40Zm14,0h-12V40a2,2,0,0,0-2-2H24.93a2,2,0,0,0-2,2v19.9h-13V34.22H54.07V59.89Zm5.82-31.78a2,2,0,0,1-2,2H54.17l-8-14h5.72a2,2,0,0,1,1.6.8l6,8a2,2,0,0,1,.4,1.2v2Z\"
+    fill=\"#fff\"/>\n    </g>\n  </g>\n</svg>\n"
+  assetBundleName: 
+  assetBundleVariant: 

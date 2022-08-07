@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 5e3518ad804bc430cb8187d7f76657d6
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"161\" height=\"109\"
+    viewBox=\"0 0 161 109\">\n  <title>outline</title>\n  <g id=\"de7553ac-a79f-4527-b1d8-487dcdc5cb36\"
+    data-name=\"\u56FE\u5C42 2\">\n    <g id=\"de9648ac-4175-4c62-b4a7-e4f65df898ee\"
+    data-name=\"\u56FE\u5C42 1\">\n      <path d=\"M106.5,109h-52a54.5,54.5,0,0,1,0-109h52a54.5,54.5,0,0,1,0,109ZM54.5,1a53.5,53.5,0,0,0,0,107h52a53.5,53.5,0,0,0,0-107Z\"
+    fill=\"#fff\"/>\n    </g>\n  </g>\n</svg>\n"
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 9d3ef7a4bb70c428f947d2ee60443614
+timeCreated: 1543889936
+licenseType: Pro
+NativeFormatImporter:
+  mainObjectFileID: 11400000
+  userData: "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"124\" height=\"123.17\"
+    viewBox=\"0 0 124 123.17\">\n  <title>icon_40</title>\n  <g id=\"b5a2bf92-141e-4a7c-9d2a-33e8239400e6\"
+    data-name=\"\u56FE\u5C42 2\">\n    <g id=\"28eebd7c-7692-4c21-bb1b-2c578da459ac\"
+    data-name=\"\u56FE\u5C42 1\">\n      <g>\n        <path d=\"M99.2,100a4.09,4.09,0,1,1,5.79,5.79,60.64,60.64,0,0,1-43,17.36c-33.89,0-62-28.11-62-62S28.11,0,62,0s62,28.11,62,62a58.77,58.77,0,0,1-2.48,17.36,3.92,3.92,0,0,1-7.44-2.48,48.13,48.13,0,0,0,2.48-15.71A53.63,53.63,0,0,0,62.83,7.44C33.07,7.44,8.27,32.24,8.27,62A53.63,53.63,0,0,0,62,115.73,52.59,52.59,0,0,0,99.2,100Z\"
+    fill=\"#fff\"/>\n        <path d=\"M52.91,73.57,85.15,41.33a4.09,4.09,0,1,1,5.79,5.79L56.21,81.84a4,4,0,0,1-5.79,0L33.07,64.48a4.09,4.09,0,1,1,5.79-5.79Z\"
+    fill=\"#fff\"/>\n      </g>\n    </g>\n  </g>\n</svg>\n"
+  assetBundleName: 
+  assetBundleVariant: 

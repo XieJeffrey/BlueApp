@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 7a8ba180cacbb2f4199ead14a05928e0
+timeCreated: 1550375149
+licenseType: Free
+NativeFormatImporter:
+  mainObjectFileID: 11400000
+  userData: "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 44.34 22.65\"><defs><style>.cls-1{fill:#fff;}</style></defs><title>icon_50</title><g
+    id=\"\u56FE\u5C42_2\" data-name=\"\u56FE\u5C42 2\"><g id=\"\u56FE\u5C42_1-2\"
+    data-name=\"\u56FE\u5C42 1\"><path class=\"cls-1\" d=\"M0,5.42H5.73V6.85H0V5.42Z\"/><path
+    class=\"cls-1\" d=\"M12.84,5.41,5.73,13.72v-7H1.43v13a2.93,2.93,0,0,0,2.93,2.93h0a2.93,2.93,0,0,0,2.25-1.06L20,5.42Z\"/><path
+    class=\"cls-1\" d=\"M43.69,2.37h0A1.46,1.46,0,0,1,42.52,3H32.64A1.48,1.48,0,0,0,31.2,4.1l-.64,2.8A1.47,1.47,0,0,0,32,8.7H42.87a1.49,1.49,0,0,1,1.44,1.81l-2.51,11a1.48,1.48,0,0,1-1.44,1.15H21.3a1.48,1.48,0,0,1-1.44-1.81h0a1.48,1.48,0,0,1,1.44-1.15H33.24a1.49,1.49,0,0,0,1.44-1.15l1.15-5.08a1.47,1.47,0,0,0-1.44-1.8H23.72a1.48,1.48,0,0,1-1.44-1.81l2-8.7A1.48,1.48,0,0,1,25.71,0H42.52A1.47,1.47,0,0,1,43.69,2.37Z\"/></g></g></svg>"
+  assetBundleName: 
+  assetBundleVariant: 

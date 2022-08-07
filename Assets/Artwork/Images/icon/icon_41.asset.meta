@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 7fc0d5c1b186e4fc69e7d5a1014d9ba9
+timeCreated: 1543890351
+licenseType: Pro
+NativeFormatImporter:
+  mainObjectFileID: 11400000
+  userData: "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"18\" height=\"25\"
+    viewBox=\"0 0 18 25\">\n  <title>icon_41</title>\n  <g id=\"66641c8d-d47f-4880-a24f-ed26cc55fdf4\"
+    data-name=\"\u56FE\u5C42 2\">\n    <g id=\"98bd2faa-4e99-446b-b027-bff30b021332\"
+    data-name=\"\u56FE\u5C42 1\">\n      <path id=\"d15a14ab-1c29-4d3e-9b0d-25774662dafe\"
+    data-name=\"Pin\" d=\"M9,13.07a4,4,0,1,0-3.94-4A4,4,0,0,0,9,13.07ZM9,25c1.13,0,9-8.52,9-15.91A9,9,0,0,0,9,0,9,9,0,0,0,0,9.09C0,16.48,7.88,25,9,25Z\"
+    fill=\"#fff\" fill-rule=\"evenodd\"/>\n    </g>\n  </g>\n</svg>\n"
+  assetBundleName: 
+  assetBundleVariant: 

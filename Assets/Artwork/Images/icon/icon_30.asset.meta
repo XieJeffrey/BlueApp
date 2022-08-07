@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 776b3f1ea407c46a08cf743a68c7c7de
+timeCreated: 1543890082
+licenseType: Pro
+NativeFormatImporter:
+  mainObjectFileID: 11400000
+  userData: "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"230\" height=\"230\"
+    viewBox=\"0 0 230 230\">\n  <title>icon_30</title>\n  <g id=\"78806f8c-833b-4024-b414-505d44db4c13\"
+    data-name=\"\u56FE\u5C42 2\">\n    <g id=\"ee53ead9-2b9c-4d48-8c59-14f4de070b61\"
+    data-name=\"\u56FE\u5C42 1\">\n      <g>\n        <path d=\"M46.79,151.44a77.3,77.3,0,0,0,136.32,0c-15.8-13.87-40.46-22.8-68.16-22.8S62.59,137.56,46.79,151.44Z\"
+    fill=\"#fff\"/>\n        <circle cx=\"114.95\" cy=\"78.64\" r=\"31.82\" fill=\"#fff\"/>\n
+    \       <path d=\"M115,0A115,115,0,1,0,230,115,115,115,0,0,0,115,0Zm-.05,215a100,100,0,1,1,100-100A100,100,0,0,1,114.95,215Z\"
+    fill=\"#fff\"/>\n      </g>\n    </g>\n  </g>\n</svg>\n"
+  assetBundleName: 
+  assetBundleVariant: 

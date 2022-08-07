@@ -1,0 +1,418 @@
+fileFormatVersion: 2
+guid: d6427ec61279e4f759f66203fab5ce7b
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Char2_Head_bone
+    100004: Char2_Hip_bone
+    100006: Char2_L_Arm_bone
+    100008: Char2_L_Leg_bone
+    100010: Char2_L_Shoulder_bone
+    100012: Char2_L_Thigh_bone
+    100014: Char2_mesh_arm_L
+    100016: Char2_mesh_arm_R
+    100018: Char2_mesh_body
+    100020: Char2_mesh_eye_L
+    100022: Char2_mesh_eye_R
+    100024: Char2_mesh_face
+    100026: Char2_mesh_foot_L
+    100028: Char2_mesh_foot_R
+    100030: Char2_mesh_head
+    100032: Char2_mesh_head_MeshPart0
+    100034: Char2_mesh_head_MeshPart1
+    100036: Char2_mesh_helmet
+    100038: Char2_R_Arm_bone
+    100040: Char2_R_Leg_bone
+    100042: Char2_R_Shoulder_bone
+    100044: Char2_R_Thigh_bone
+    100046: Char2_Spine1_bone
+    400000: //RootNode
+    400002: Char2_Head_bone
+    400004: Char2_Hip_bone
+    400006: Char2_L_Arm_bone
+    400008: Char2_L_Leg_bone
+    400010: Char2_L_Shoulder_bone
+    400012: Char2_L_Thigh_bone
+    400014: Char2_mesh_arm_L
+    400016: Char2_mesh_arm_R
+    400018: Char2_mesh_body
+    400020: Char2_mesh_eye_L
+    400022: Char2_mesh_eye_R
+    400024: Char2_mesh_face
+    400026: Char2_mesh_foot_L
+    400028: Char2_mesh_foot_R
+    400030: Char2_mesh_head
+    400032: Char2_mesh_head_MeshPart0
+    400034: Char2_mesh_head_MeshPart1
+    400036: Char2_mesh_helmet
+    400038: Char2_R_Arm_bone
+    400040: Char2_R_Leg_bone
+    400042: Char2_R_Shoulder_bone
+    400044: Char2_R_Thigh_bone
+    400046: Char2_Spine1_bone
+    2300000: Char2_mesh_face
+    2300002: Char2_mesh_head_MeshPart0
+    2300004: Char2_mesh_head_MeshPart1
+    2300006: Char2_mesh_helmet
+    3300000: Char2_mesh_face
+    3300002: Char2_mesh_head_MeshPart0
+    3300004: Char2_mesh_head_MeshPart1
+    3300006: Char2_mesh_helmet
+    4300000: Char2_mesh_helmet
+    4300002: Char2_mesh_head_MeshPart0
+    4300004: Char2_mesh_head_MeshPart1
+    4300006: Char2_mesh_face
+    4300008: Char2_mesh_eye_L
+    4300010: Char2_mesh_eye_R
+    4300012: Char2_mesh_body
+    4300014: Char2_mesh_arm_L
+    4300016: Char2_mesh_foot_R
+    4300018: Char2_mesh_foot_L
+    4300020: Char2_mesh_arm_R
+    7400000: Take 001
+    7400002: Take 001 (1)
+    7400004: Take 001 (2)
+    9500000: //RootNode
+    13700000: Char2_mesh_arm_L
+    13700002: Char2_mesh_arm_R
+    13700004: Char2_mesh_body
+    13700006: Char2_mesh_eye_L
+    13700008: Char2_mesh_eye_R
+    13700010: Char2_mesh_foot_L
+    13700012: Char2_mesh_foot_R
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ChunJingLan
+    second: {fileID: 2100000, guid: 227fd687ea9cd4525844a0afbb954c50, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: black
+    second: {fileID: 2100000, guid: 3d5ff4e9f571f4ee984e4d05988b4cbb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: eye
+    second: {fileID: 2100000, guid: b8f48b7b0b76f4e05a75893510917a36, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: white
+    second: {fileID: 2100000, guid: 93ca1d224a2cb477bb915236c0b21751, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 100
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Char2_Hip_bone
+        weight: 1
+      - path: Char2_Hip_bone/Char2_L_Thigh_bone
+        weight: 1
+      - path: Char2_Hip_bone/Char2_L_Thigh_bone/Char2_L_Leg_bone
+        weight: 1
+      - path: Char2_Hip_bone/Char2_R_Thigh_bone
+        weight: 1
+      - path: Char2_Hip_bone/Char2_R_Thigh_bone/Char2_R_Leg_bone
+        weight: 1
+      - path: Char2_Hip_bone/Char2_Spine1_bone
+        weight: 1
+      - path: Char2_Hip_bone/Char2_Spine1_bone/Char2_Head_bone
+        weight: 1
+      - path: Char2_Hip_bone/Char2_Spine1_bone/Char2_Head_bone/Char2_mesh_eye_L
+        weight: 1
+      - path: Char2_Hip_bone/Char2_Spine1_bone/Char2_Head_bone/Char2_mesh_eye_R
+        weight: 1
+      - path: Char2_Hip_bone/Char2_Spine1_bone/Char2_Head_bone/Char2_mesh_face
+        weight: 1
+      - path: Char2_Hip_bone/Char2_Spine1_bone/Char2_Head_bone/Char2_mesh_head
+        weight: 1
+      - path: Char2_Hip_bone/Char2_Spine1_bone/Char2_Head_bone/Char2_mesh_head/Char2_mesh_head_MeshPart0
+        weight: 1
+      - path: Char2_Hip_bone/Char2_Spine1_bone/Char2_Head_bone/Char2_mesh_head/Char2_mesh_head_MeshPart1
+        weight: 1
+      - path: Char2_Hip_bone/Char2_Spine1_bone/Char2_Head_bone/Char2_mesh_helmet
+        weight: 1
+      - path: Char2_Hip_bone/Char2_Spine1_bone/Char2_L_Shoulder_bone
+        weight: 1
+      - path: Char2_Hip_bone/Char2_Spine1_bone/Char2_L_Shoulder_bone/Char2_L_Arm_bone
+        weight: 1
+      - path: Char2_Hip_bone/Char2_Spine1_bone/Char2_R_Shoulder_bone
+        weight: 1
+      - path: Char2_Hip_bone/Char2_Spine1_bone/Char2_R_Shoulder_bone/Char2_R_Arm_bone
+        weight: 1
+      - path: Char2_mesh_arm_L
+        weight: 1
+      - path: Char2_mesh_arm_R
+        weight: 1
+      - path: Char2_mesh_body
+        weight: 1
+      - path: Char2_mesh_foot_L
+        weight: 1
+      - path: Char2_mesh_foot_R
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Take 001 (1)
+      takeName: Take 001
+      firstFrame: 88
+      lastFrame: 148
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Char2_Hip_bone
+        weight: 1
+      - path: Char2_Hip_bone/Char2_L_Thigh_bone
+        weight: 1
+      - path: Char2_Hip_bone/Char2_L_Thigh_bone/Char2_L_Leg_bone
+        weight: 1
+      - path: Char2_Hip_bone/Char2_R_Thigh_bone
+        weight: 1
+      - path: Char2_Hip_bone/Char2_R_Thigh_bone/Char2_R_Leg_bone
+        weight: 1
+      - path: Char2_Hip_bone/Char2_Spine1_bone
+        weight: 1
+      - path: Char2_Hip_bone/Char2_Spine1_bone/Char2_Head_bone
+        weight: 1
+      - path: Char2_Hip_bone/Char2_Spine1_bone/Char2_Head_bone/Char2_mesh_eye_L
+        weight: 1
+      - path: Char2_Hip_bone/Char2_Spine1_bone/Char2_Head_bone/Char2_mesh_eye_R
+        weight: 1
+      - path: Char2_Hip_bone/Char2_Spine1_bone/Char2_Head_bone/Char2_mesh_face
+        weight: 1
+      - path: Char2_Hip_bone/Char2_Spine1_bone/Char2_Head_bone/Char2_mesh_head
+        weight: 1
+      - path: Char2_Hip_bone/Char2_Spine1_bone/Char2_Head_bone/Char2_mesh_head/Char2_mesh_head_MeshPart0
+        weight: 1
+      - path: Char2_Hip_bone/Char2_Spine1_bone/Char2_Head_bone/Char2_mesh_head/Char2_mesh_head_MeshPart1
+        weight: 1
+      - path: Char2_Hip_bone/Char2_Spine1_bone/Char2_Head_bone/Char2_mesh_helmet
+        weight: 1
+      - path: Char2_Hip_bone/Char2_Spine1_bone/Char2_L_Shoulder_bone
+        weight: 1
+      - path: Char2_Hip_bone/Char2_Spine1_bone/Char2_L_Shoulder_bone/Char2_L_Arm_bone
+        weight: 1
+      - path: Char2_Hip_bone/Char2_Spine1_bone/Char2_R_Shoulder_bone
+        weight: 1
+      - path: Char2_Hip_bone/Char2_Spine1_bone/Char2_R_Shoulder_bone/Char2_R_Arm_bone
+        weight: 1
+      - path: Char2_mesh_arm_L
+        weight: 1
+      - path: Char2_mesh_arm_R
+        weight: 1
+      - path: Char2_mesh_body
+        weight: 1
+      - path: Char2_mesh_foot_L
+        weight: 1
+      - path: Char2_mesh_foot_R
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Take 001 (2)
+      takeName: Take 001
+      firstFrame: 139
+      lastFrame: 220
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Char2_Hip_bone
+        weight: 1
+      - path: Char2_Hip_bone/Char2_L_Thigh_bone
+        weight: 1
+      - path: Char2_Hip_bone/Char2_L_Thigh_bone/Char2_L_Leg_bone
+        weight: 1
+      - path: Char2_Hip_bone/Char2_R_Thigh_bone
+        weight: 1
+      - path: Char2_Hip_bone/Char2_R_Thigh_bone/Char2_R_Leg_bone
+        weight: 1
+      - path: Char2_Hip_bone/Char2_Spine1_bone
+        weight: 1
+      - path: Char2_Hip_bone/Char2_Spine1_bone/Char2_Head_bone
+        weight: 1
+      - path: Char2_Hip_bone/Char2_Spine1_bone/Char2_Head_bone/Char2_mesh_eye_L
+        weight: 1
+      - path: Char2_Hip_bone/Char2_Spine1_bone/Char2_Head_bone/Char2_mesh_eye_R
+        weight: 1
+      - path: Char2_Hip_bone/Char2_Spine1_bone/Char2_Head_bone/Char2_mesh_face
+        weight: 1
+      - path: Char2_Hip_bone/Char2_Spine1_bone/Char2_Head_bone/Char2_mesh_head
+        weight: 1
+      - path: Char2_Hip_bone/Char2_Spine1_bone/Char2_Head_bone/Char2_mesh_head/Char2_mesh_head_MeshPart0
+        weight: 1
+      - path: Char2_Hip_bone/Char2_Spine1_bone/Char2_Head_bone/Char2_mesh_head/Char2_mesh_head_MeshPart1
+        weight: 1
+      - path: Char2_Hip_bone/Char2_Spine1_bone/Char2_Head_bone/Char2_mesh_helmet
+        weight: 1
+      - path: Char2_Hip_bone/Char2_Spine1_bone/Char2_L_Shoulder_bone
+        weight: 1
+      - path: Char2_Hip_bone/Char2_Spine1_bone/Char2_L_Shoulder_bone/Char2_L_Arm_bone
+        weight: 1
+      - path: Char2_Hip_bone/Char2_Spine1_bone/Char2_R_Shoulder_bone
+        weight: 1
+      - path: Char2_Hip_bone/Char2_Spine1_bone/Char2_R_Shoulder_bone/Char2_R_Arm_bone
+        weight: 1
+      - path: Char2_mesh_arm_L
+        weight: 1
+      - path: Char2_mesh_arm_R
+        weight: 1
+      - path: Char2_mesh_body
+        weight: 1
+      - path: Char2_mesh_foot_L
+        weight: 1
+      - path: Char2_mesh_foot_R
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.001
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

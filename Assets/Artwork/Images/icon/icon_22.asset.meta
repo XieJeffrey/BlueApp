@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: d462a74c825394e768331f95504e7225
+timeCreated: 1543809082
+licenseType: Pro
+NativeFormatImporter:
+  mainObjectFileID: 11400000
+  userData: "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"50.19\" height=\"64.24\"
+    viewBox=\"0 0 50.19 64.24\">\n  <title>icon_22</title>\n  <g id=\"936522e2-7aa9-47f4-9a74-f5f96caf52f5\"
+    data-name=\"\u56FE\u5C42 2\">\n    <g id=\"d0776407-07da-433a-af7b-69c3164d1495\"
+    data-name=\"\u56FE\u5C42 1\">\n      <path d=\"M48.23,7.95c-.55,0-1.09,0-1.62,0C32.67,8,26.54,1.58,26.48,1.53L25.09,0,23.7,1.53C23.64,1.6,17.17,8.46,2,7.95L0,7.88v29C0,44.44,2.53,55.51,24.41,64l.68.26.68-.26c21.88-8.46,24.41-19.53,24.41-27.12v-29Zm-1.86,28.9c0,4.07,0,14.82-21.28,23.28C3.82,51.67,3.82,40.92,3.82,36.85V11.79c11.78,0,18.56-4.24,21.28-6.41,2.72,2.17,9.5,6.36,21.28,6.41Z\"
+    fill=\"#fff\"/>\n    </g>\n  </g>\n</svg>\n"
+  assetBundleName: 
+  assetBundleVariant: 

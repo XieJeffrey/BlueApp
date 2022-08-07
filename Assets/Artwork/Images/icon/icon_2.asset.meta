@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 1962545fc88794183b4d0e739cbb3c1f
+timeCreated: 1543489218
+licenseType: Pro
+NativeFormatImporter:
+  mainObjectFileID: 11400000
+  userData: "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"32.98\" height=\"34.01\"
+    viewBox=\"0 0 32.98 34.01\">\n  <title>searchIcon</title>\n  <g id=\"a2d0e040-8c0b-4b40-a345-e8211a711f77\"
+    data-name=\"\u56FE\u5C42 2\">\n    <g id=\"1a9b32d4-7ca2-41d7-b977-7f23c1814c58\"
+    data-name=\"\u56FE\u5C42 1\">\n      <g>\n        <path d=\"M21.13,24.19l9.29,9.37a1.5,1.5,0,0,0,2.12-2.12l-9.29-9.37a1.5,1.5,0,0,0-2.12,2.12Z\"
+    fill=\"#fff\"/>\n        <path d=\"M13.62,27.51c7.45-.4,13.64-6,13.64-13.76A13.84,13.84,0,0,0,13.62,0,13.82,13.82,0,0,0,0,13.09c-.38,8,5.88,14,13.61,14.42,1.93.1,1.92-2.9,0-3C0,23.77-.15,3,13.62,3s13.65,20.77,0,21.51C11.7,24.62,11.69,27.62,13.62,27.51Z\"
+    fill=\"#fff\"/>\n      </g>\n    </g>\n  </g>\n</svg>\n"
+  assetBundleName: 
+  assetBundleVariant: 

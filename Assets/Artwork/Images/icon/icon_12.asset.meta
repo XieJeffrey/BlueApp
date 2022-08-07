@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 8e33321145c794dfc9e00ac8f0913b96
+timeCreated: 1543563821
+licenseType: Pro
+NativeFormatImporter:
+  mainObjectFileID: 11400000
+  userData: "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"43.65\" height=\"37.69\"
+    viewBox=\"0 0 43.65 37.69\">\n  <title>icon_12</title>\n  <g id=\"3d538391-3868-4062-bbd4-6ad8bc435e59\"
+    data-name=\"\u56FE\u5C42 2\">\n    <g id=\"9a3f4718-593d-4ade-bbd9-970aa46f675d\"
+    data-name=\"\u56FE\u5C42 1\">\n      <g>\n        <path d=\"M33.4,3.79A3.62,3.62,0,0,0,30,0H3.42A3.62,3.62,0,0,0,0,3.78V33.9a3.61,3.61,0,0,0,3.42,3.78H30A3.62,3.62,0,0,0,33.4,33.9v-5a2.57,2.57,0,0,0-2.57,2.57v2.4c0,.72-.44,1.22-.85,1.22H3.42c-.41,0-.85-.48-.85-1.21V3.78c0-.72.44-1.21.85-1.21H30c.4,0,.85.49.85,1.22V9.9a2.57,2.57,0,0,0,2.57,2.57Zm0,0\"
+    fill=\"#fff\"/>\n        <rect x=\"6.85\" y=\"9.42\" width=\"18.84\" height=\"2.57\"
+    fill=\"#fff\"/>\n        <rect x=\"6.85\" y=\"17.13\" width=\"11.99\" height=\"2.57\"
+    fill=\"#fff\"/>\n        <rect x=\"6.85\" y=\"24.84\" width=\"11.99\" height=\"2.57\"
+    fill=\"#fff\"/>\n        <path d=\"M40.56,14.48,28.14,24.9l-2.35.29.7-2.26L38.91,12.52ZM40,9.88a1.28,1.28,0,0,0-1.81-.16L24.55,21.21a1.28,1.28,0,0,0-.4.61l-.89,2.88a2.29,2.29,0,0,0,2.58,3.08l3-.37a1.29,1.29,0,0,0,.67-.29L43.19,15.63a1.28,1.28,0,0,0,.16-1.81Zm0,0\"
+    fill=\"#fff\"/>\n      </g>\n    </g>\n  </g>\n</svg>\n"
+  assetBundleName: 
+  assetBundleVariant: 

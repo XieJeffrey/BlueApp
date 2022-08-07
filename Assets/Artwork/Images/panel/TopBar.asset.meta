@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: bca4bcb27e6031a4b95ca95f57acaf13
+timeCreated: 1550372184
+licenseType: Free
+NativeFormatImporter:
+  mainObjectFileID: 11400000
+  userData: "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 107.95 56.44\"><defs><style>.cls-1{fill:#1b6468;}.cls-2{fill:#268d97;}</style></defs><title>TopBar</title><g
+    id=\"\u56FE\u5C42_2\" data-name=\"\u56FE\u5C42 2\"><g id=\"\u56FE\u5C42_1-2\"
+    data-name=\"\u56FE\u5C42 1\"><path class=\"cls-1\" d=\"M9.39,0A9.37,9.37,0,0,0,0,9.36l22.49,0,0-9.37Z\"/><path
+    class=\"cls-1\" d=\"M98.59.24A9.37,9.37,0,0,1,108,9.62l-22.49,0V.22Z\"/><path
+    class=\"cls-2\" d=\"M89.2,9.59A9.38,9.38,0,0,1,98.59.24L79.85.21,9.39,0a9.37,9.37,0,0,1,9.35,9.39l-.06,37.49A9.36,9.36,0,0,0,28,56.26l51.72.18a9.37,9.37,0,0,0,9.38-9.36Z\"/></g></g></svg>"
+  assetBundleName: 
+  assetBundleVariant: 

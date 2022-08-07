@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: eca0ee7412ee74f709c4309cb5f5266b
+timeCreated: 1543484144
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: e?kcQpN?R???_GBK
+  fontNames:
+  - e?kcQpN?R???_GBK
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

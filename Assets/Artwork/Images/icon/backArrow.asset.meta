@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 1c0ea4e56bfb846c089c409f3bdd5063
+timeCreated: 1543562491
+licenseType: Pro
+NativeFormatImporter:
+  mainObjectFileID: 11400000
+  userData: "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"17.99\" height=\"33\"
+    viewBox=\"0 0 17.99 33\">\n  <title>backArrow</title>\n  <g id=\"1583edbd-f9b7-4f7b-a99f-b2409d4b34ce\"
+    data-name=\"\u56FE\u5C42 2\">\n    <g id=\"df64b792-040b-4503-a97f-ff63d5569c39\"
+    data-name=\"\u56FE\u5C42 1\">\n      <path d=\"M17.55,30.44,3.61,16.5,17.55,2.56A1.5,1.5,0,0,0,15.43.44l-15,15a1.52,1.52,0,0,0,0,2.12l15,15A1.5,1.5,0,0,0,17.55,30.44Z\"
+    fill=\"#fff\"/>\n    </g>\n  </g>\n</svg>\n"
+  assetBundleName: 
+  assetBundleVariant: 

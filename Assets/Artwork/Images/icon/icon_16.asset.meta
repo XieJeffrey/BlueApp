@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 0e8f2977c03da4fe8a3bafaf53f60600
+timeCreated: 1543576350
+licenseType: Pro
+NativeFormatImporter:
+  mainObjectFileID: 11400000
+  userData: "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24.12\" height=\"25.86\"
+    viewBox=\"0 0 24.12 25.86\">\n  <title>icon_16</title>\n  <g id=\"b5abdf42-7856-4689-826a-ce893dd61bf2\"
+    data-name=\"\u56FE\u5C42 2\">\n    <g id=\"dee94248-6536-4ad9-ae6d-62b6087748ef\"
+    data-name=\"\u56FE\u5C42 1\">\n      <g>\n        <path d=\"M19.43,25.86H2.78A2.78,2.78,0,0,1,0,23.08V4.57A2.78,2.78,0,0,1,2.78,1.79h13a.93.93,0,1,1,0,1.85h-13a.93.93,0,0,0-.93.93V23.08a.93.93,0,0,0,.93.93H19.43a.93.93,0,0,0,.93-.93V8.27a.93.93,0,1,1,1.85,0V23.08a2.78,2.78,0,0,1-2.78,2.78Zm0,0\"
+    fill=\"#fff\"/>\n        <path d=\"M14,11a.93.93,0,0,1-.65-1.58l9.2-9.2a.93.93,0,0,1,1.31,1.31l-9.2,9.2A.92.92,0,0,1,14,11Zm0,0\"
+    fill=\"#fff\"/>\n        <path d=\"M10.18,11H4.63a.93.93,0,1,1,0-1.85h5.55a.93.93,0,0,1,0,1.85Zm0,0\"
+    fill=\"#fff\"/>\n        <path d=\"M15.73,16.6H4.63a.93.93,0,1,1,0-1.85H15.73a.93.93,0,1,1,0,1.85Zm0,0\"
+    fill=\"#fff\"/>\n      </g>\n    </g>\n  </g>\n</svg>\n"
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: f4ea4a66b0b83467a8e2ad73df5955cc
+timeCreated: 1543801246
+licenseType: Pro
+NativeFormatImporter:
+  mainObjectFileID: 11400000
+  userData: "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"82\" height=\"32\"
+    viewBox=\"0 0 82 32\">\n  <title>dropdown_bk_1</title>\n  <g id=\"3cc24bb3-1c9b-48ef-9a79-d7b1a07ddf90\"
+    data-name=\"\u56FE\u5C42 2\">\n    <g id=\"c736223f-0ad7-465c-a26b-2dc6e6acde71\"
+    data-name=\"\u56FE\u5C42 1\">\n      <path d=\"M78.58,12H54.91a7.91,7.91,0,0,1-5.23-2L39.53,1.11A4.44,4.44,0,0,0,33.79,1L22.35,10.27a7.91,7.91,0,0,1-5,1.77h-14A3.43,3.43,0,0,0,0,15.48V28.56A3.43,3.43,0,0,0,3.42,32H78.58A3.43,3.43,0,0,0,82,28.56V15.48A3.43,3.43,0,0,0,78.58,12Z\"
+    fill=\"#fff\"/>\n    </g>\n  </g>\n</svg>\n"
+  assetBundleName: 
+  assetBundleVariant: 

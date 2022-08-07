@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 2142894fdc5f0451cb12b1e43f62b026
+timeCreated: 1543487352
+licenseType: Pro
+NativeFormatImporter:
+  mainObjectFileID: 11400000
+  userData: "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24.49\" height=\"32.31\"
+    viewBox=\"0 0 24.49 32.31\">\n  <title>passwordIcon</title>\n  <g id=\"9319be21-71e7-4124-9213-6bede4e40b7e\"
+    data-name=\"\u56FE\u5C42 2\">\n    <g id=\"c4465c79-41a7-4f7c-bb55-a54b33b43574\"
+    data-name=\"\u56FE\u5C42 1\">\n      <g>\n        <path d=\"M22.37,12.29H21.18V8.95a8.94,8.94,0,1,0-17.88,0v3.34H2.12A2.12,2.12,0,0,0,0,14.4V30.2a2.12,2.12,0,0,0,2.12,2.12H22.38a2.12,2.12,0,0,0,2.12-2.12V14.4a2.13,2.13,0,0,0-2.12-2.11ZM6,8.94a6.25,6.25,0,1,1,12.5,0v3.33H6Zm15.8,20.68H2.69V15h19.1V29.62Zm0,0\"
+    fill=\"#fff\"/>\n        <path d=\"M12.24,27.61a1.34,1.34,0,0,0,1.35-1.35V22.8a1.35,1.35,0,0,0-2.69,0v3.47a1.35,1.35,0,0,0,1.35,1.35Zm0,0\"
+    fill=\"#fff\"/>\n      </g>\n    </g>\n  </g>\n</svg>\n"
+  assetBundleName: 
+  assetBundleVariant: 
