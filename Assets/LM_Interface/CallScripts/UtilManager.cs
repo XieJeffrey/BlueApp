@@ -229,11 +229,9 @@ namespace LM_Workspace
 		protected override void Awake ()
 		{
 			base.Awake ();
-#if RELEASE_MODEL
             serverIP = "api.zccjl.com";
-#else
-            serverIP = "test.zccjl.com";
-#endif
+      //      serverIP = "test.zccjl.com";
+
 			timeStr = "0";
 			canvasP = GameObject.Find ("Canvas");
 			messageAlert =Util.FindChildByName(canvasP, "Message_Alert");

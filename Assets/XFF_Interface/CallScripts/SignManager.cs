@@ -36,6 +36,7 @@ namespace LM_Workspace {
 
         // Use this for initialization
         void Start() {
+            Debug.Log("－－任务界面初始化－－");
             interfaceManager = GameObject.Find("Camera").GetComponent<InterfaceManager>();
 
             EventManager.instance.RegisterEvent(XMWorkspace.Event.GetLastWeekSign, ShowSignState);
@@ -82,6 +83,7 @@ namespace LM_Workspace {
 
         void Refresh()
         {
+            Debug.Log("刷新任务界面");
             #region 默认的签到表现
             System.TimeSpan timeSpan = new System.TimeSpan(24, 0, 0);
             System.DateTime tmp = System.DateTime.Now - timeSpan;

@@ -120,7 +120,7 @@ namespace GD
         /// <param name="data"></param>
         private void ToRenWuPanel(GameObject go, PointerEventData data)
         {
-
+            Debug.Log("＝＝＝＝＝任务点击==========");
             UtilManager.getInstance.signInGo.SetActive(true);
         }
 
